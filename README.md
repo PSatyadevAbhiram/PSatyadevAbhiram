@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PSatyadevAbhiram
 - 👀 I’m interested in Coding amd learning new things
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently aiming for a meaningful git push everyday upon completion of my Udemy course on React JS.
 - 💞️ I’m looking to collaborate on any research project that would have the components of Ai and Software dev
 - 📫 How to reach me - Please mail me at abhi.pandravada@gmail.com
 
